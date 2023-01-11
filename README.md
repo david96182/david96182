@@ -12,12 +12,9 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p>
-    <img src="https://img.shields.io/badge/-David Puerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-puerta-martín-9b89b920b/"/>
-    <img src="https://img.shields.io/badge/-davidpuertamartin-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/davidpuertamartin/"/>
-    <img src="https://img.shields.io/badge/-portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://david96182.github.io/"/>
-    <img src="https://img.shields.io/badge/-puertadavid96182@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puertadavid96182@gmail.com)](mailto:puertadavid96182@gmail.com"/>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-David Puerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-puerta-martín-9b89b920b/)](https://www.linkedin.com/in/david-puerta-martín-9b89b920b/)[![Instagram Badge](https://img.shields.io/badge/-davidpuertamartin-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/davidpuertamartin/)](https://www.instagram.com/davidpuertamartin/)[![Website Badge](https://img.shields.io/badge/-portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://david96182.github.io/)](https://david96182.github.io/)[![Gmail Badge](https://img.shields.io/badge/-puertadavid96182@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puertadavid96182@gmail.com)](mailto:puertadavid96182@gmail.com)
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
