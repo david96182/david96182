@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/badge/-Postman-F29111?style=flat-square&logo=Postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NodeJS-42B883?style=flat-square&logo=NodeJS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Selenium-66CC66?style=flat-square&logo=Selenium&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Nginx-0D9579?style=flat-square&logo=Nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Django-053B30?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -53,6 +52,7 @@
     <img src="https://img.shields.io/badge/-Bootstrap-470E62?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Wireshark-87CEEB?style=flat-square&logo=Wireshark&logoColor=white"/>
 </p>
+
 
 ---
 
