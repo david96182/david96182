@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-<img src="http://views.whatilearened.today/views/github/david96182/views.svg"/>[![GitHub david96182](https://img.shields.io/github/followers/david96182?label=follow&style=social)](https://github.com/david96182)
+<p align="center">A passionate Python Developer who loves to bring creative ideas to life through code. I'm fascinated by the power of open source and enjoy exploring new technologies.</p>
 
 ---
 
-- 🌱 I’m currently working remote as a **Python Developer**
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about **Web Development**.
+- 🌱 I’m currently working remote as a **Python Developer** specializing in Backend Development.
+- 👯 I’m looking to collaborate on open source projects, particularly those centered around the dynamic world of Django development.
+- 💬 Ask me about **Web Development**, especially Django, VueJS, Flask & Javascript.
 - 📫 How to reach me [puertadavid96182@gmail.com](mailto:puertadavid96182@gmail.com)
+- ⚡ Fun fact: When I'm not coding, I'm probably navigating through virtual realms in video games or binge-watching captivating series and movies, indulging in the diverse stories and experiences they offer.
 
 ---
 
@@ -51,8 +52,10 @@
     <img src="https://img.shields.io/badge/-Pycharm-0D9579?style=flat-square&logo=Pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-470E62?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Wireshark-87CEEB?style=flat-square&logo=Wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lvim-5849BE?style=flat-square&logo=Lvim&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-Web2py-42B883?style=flat-square&logo=Web2py&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mariadb-000000?style=flat-square&logo=Mariadb&logoColor=white"/>
 </p>
-
 
 ---
 
