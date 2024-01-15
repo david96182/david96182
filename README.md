@@ -7,7 +7,7 @@
 - 🌱 I’m currently working remote as a **Python Developer**
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about **Web Development**.
-- 📫 How to reach me **puertadavid96182@gmail.com**
+- 📫 How to reach me [puertadavid96182@gmail.com](mailto:puertadavid96182@gmail.com)
 
 ---
 
