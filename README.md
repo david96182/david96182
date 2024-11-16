@@ -53,6 +53,8 @@
     <img src="https://img.shields.io/badge/-Lvim-5849BE?style=flat-square&logo=Lvim&logoColor=blue"/>
     <img src="https://img.shields.io/badge/-Web2py-42B883?style=flat-square&logo=Web2py&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Mariadb-000000?style=flat-square&logo=Mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Rust-F29111?style=flat-square&logo=Rust&logoColor=red"/>
+    <img src="https://img.shields.io/badge/-Odoo-875A7B?style=flat-square&logo=Odoo&logoColor=pink"/>
 </p>
 
 ---
