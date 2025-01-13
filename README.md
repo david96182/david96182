@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/-Mariadb-000000?style=flat-square&logo=Mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Rust-F29111?style=flat-square&logo=Rust&logoColor=red"/>
     <img src="https://img.shields.io/badge/-Odoo-875A7B?style=flat-square&logo=Odoo&logoColor=pink"/>
+    <img src="https://img.shields.io/badge/-React-58C4DC?style=flat-square&logo=React"/>
 </p>
 
 ---
